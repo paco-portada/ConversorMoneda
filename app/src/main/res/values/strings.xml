@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="euros">€</string>
+    <string name="uno">1</string>
+    <string name="dolares">$</string>
+    <string name="dolares_a_euros">Dólares a Euros</string>
+    <string name="euros_a_dolares">Euros a Dólares</string>
+    <string name="convertir">Convertir</string>
+</resources>
